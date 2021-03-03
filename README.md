@@ -1,7 +1,7 @@
 
 # OTPDemo
  
-I simple Example on how to create OTP in SwiftUI
+A simple Example on how to create OTP in SwiftUI
 
 This demo depend on this [article](https://medium.com/flawless-app-stories/swiftui-passcode-field-for-otp-and-pin-entry-b61ba663dc31)
 
